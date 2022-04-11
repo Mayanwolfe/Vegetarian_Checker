@@ -59,3 +59,11 @@ table, th, td {
   border: 1px solid;
   background-color: white;
 }
+
+.non-veg-item {
+  background-color: red;
+}
+
+.unknown-maybe-item {
+  background-color: yellow;
+}
