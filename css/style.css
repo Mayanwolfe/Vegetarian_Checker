@@ -34,3 +34,28 @@ body {
 /* ADDITIONAL STYLES
 /*******************************************/
 
+input {
+  width: 200px;
+}
+
+button {
+  margin: 20px auto;
+  display: block;
+}
+
+img {
+  max-height: 300px;
+}
+
+h2 {
+  margin-bottom: 0;
+}
+
+table {
+  margin: 20px auto;
+}
+
+table, th, td {
+  border: 1px solid;
+  background-color: white;
+}
